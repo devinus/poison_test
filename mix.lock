@@ -1,0 +1,4 @@
+%{"exjsx": {:hex, :exjsx, "3.1.0"},
+  "jiffy": {:git, "git://github.com/davisp/jiffy.git", "5d5cfe4f9b6cfd4e6d0ea429bf8eb62110a21145", []},
+  "jsx": {:hex, :jsx, "2.4.0"},
+  "poison": {:hex, :poison, "1.4.0"}}
